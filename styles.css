@@ -308,6 +308,8 @@ ul.slick-dots li button {
 }
 
 .middle-banner {
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(128, 17, 17);
     width: 100%;
     height: 800px;
@@ -379,8 +381,8 @@ hr {
     display: flex;
     text-align: center;
     flex-wrap: wrap;
-    margin-left: 325px;
-    margin-right: 325px;
+    margin-left: 340px;
+    margin-right: 380px;
     text-align: center;
     color: white;
 }
@@ -418,21 +420,21 @@ hr {
 .icon1 {
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #48490e; */
 }
 
 .icon2 {
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #8d1414; */
 }
 
 .icon3 {
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #23126e; */
 }
 
@@ -451,14 +453,14 @@ hr {
 .icon4 {
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #2b0abe; */
 }
 
 .icon5 {
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #10be0a; */
 }
 
@@ -466,7 +468,7 @@ hr {
     margin: 0;
     text-align: center;
     height: 400px;
-    width: 359px;
+    width: 390px;
     /* background-color: #103b0e; */
 }
 
@@ -566,7 +568,7 @@ hr {
     height: 620px;
     position: absolute;
     top: 2264px;
-    left: 300px;
+    left: 350px;
 }
 
 .picture .pics {
@@ -651,7 +653,7 @@ hr {
 .tile {
     position: absolute;
     top: 3058px;
-    left: 300px;
+    left: 350px;
 }
 
 .tile .tiles {
@@ -762,7 +764,7 @@ hr {
     /* background-color: rgb(90, 146, 34); */
     color: rgb(255, 253, 253);
     text-align: right;
-    padding: 100px 300px;
+    padding: 100px 340px;
 }
 
 .subscribe-update h1 {
@@ -782,7 +784,7 @@ hr {
 }
 
 .email-details {
-    padding: 120px 0px 0px 100px;
+    padding: 120px 0px 0px 120px;
     width: 50%;
     height: 400px;
     flex-direction: left;
@@ -813,11 +815,18 @@ hr {
     background-color: #fff;
 }
 
+.enquiry-details {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    display: flex;
+}
+
 .timimg {
     /* color: #fff; */
-    margin-left: 100px;
-    padding: 0px 5px 10px 200px;
-    width: 25%;
+    /* margin-left: 100px;
+    padding: 0px 5px 10px 200px; */
+    width: 24%;
     height: 300px;
     /* background-color: #000; */
 }
@@ -878,7 +887,7 @@ hr {
 }
 
 .quick-links {
-    width: 18%;
+    width: 22%;
     height: 300px;
     /* background-color: rgb(83, 42, 42); */
 }
@@ -904,7 +913,7 @@ hr {
 }
 
 .contact-us {
-    width: 14%;
+    width: 24%;
     height: 300px;
     /* background-color: rgb(18, 34, 128); */
 }
@@ -930,7 +939,7 @@ hr {
 }
 
 .sponsorship {
-    width: 7%;
+    width: 15%;
     height: 300px;
     /* background-color: rgb(69, 177, 19); */
     color: #000;
@@ -945,7 +954,7 @@ hr {
 }
 
 .globalportfolio {
-    width: 15%;
+    width: 24%;
     height: 300px;
     /* background-color: rgb(102, 10, 67); */
     color: #000;
